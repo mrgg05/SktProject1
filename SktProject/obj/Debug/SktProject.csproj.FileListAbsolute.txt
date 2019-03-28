@@ -1,0 +1,480 @@
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\ApplicationInsights.config
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\SktProject.dll.config
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\SktProject.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\SktProject.pdb
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\csc.exe
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\csc.exe.config
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\csc.rsp
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\csi.exe
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\csi.exe.config
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\csi.rsp
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.AppContext.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Console.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\vbc.exe
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\vbc.exe.config
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\vbc.rsp
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Antlr3.Runtime.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\EntityFramework.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\EntityFramework.SqlServer.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AI.Web.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Newtonsoft.Json.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Owin.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.Helpers.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.Mvc.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.Optimization.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.Razor.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.WebPages.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\WebGrease.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.Helpers.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.Mvc.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.Optimization.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.Razor.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.WebPages.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Newtonsoft.Json.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Antlr3.Runtime.pdb
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\EntityFramework.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\EntityFramework.SqlServer.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.AI.Web.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\obj\Debug\SktProject.csprojAssemblyReference.cache
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\obj\Debug\SktProject.csproj.CoreCompileInputs.cache
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\obj\Debug\SktProject.csproj.CopyComplete
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\obj\Debug\SktProject.dll
+C:\Users\gurka\Desktop\C# Projeleri\SktProject\SktProject\obj\Debug\SktProject.pdb
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\ApplicationInsights.config
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\SktProject.dll.config
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\SktProject.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\SktProject.pdb
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\csc.exe
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\csc.exe.config
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\csc.rsp
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\csi.exe
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\csi.exe.config
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\csi.rsp
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.AppContext.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Console.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\vbc.exe
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\vbc.exe.config
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\vbc.rsp
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Antlr3.Runtime.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\EntityFramework.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\EntityFramework.SqlServer.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AI.Web.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Newtonsoft.Json.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Owin.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.Helpers.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.Mvc.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.Optimization.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.Razor.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.WebPages.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\WebGrease.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.Helpers.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.Mvc.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.Optimization.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.Razor.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.WebPages.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Newtonsoft.Json.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Antlr3.Runtime.pdb
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\EntityFramework.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\EntityFramework.SqlServer.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.AI.Web.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\obj\Debug\SktProject.csprojAssemblyReference.cache
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\obj\Debug\SktProject.csproj.CoreCompileInputs.cache
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\obj\Debug\SktProject.csproj.CopyComplete
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\obj\Debug\SktProject.dll
+C:\Users\gurka\source\repos\SKTProjectYeni\SktProject\obj\Debug\SktProject.pdb
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\ApplicationInsights.config
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\SktProject.dll.config
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\SktProject.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\SktProject.pdb
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Antlr3.Runtime.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AI.Web.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Newtonsoft.Json.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Owin.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.Optimization.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.WebPages.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\WebGrease.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.Optimization.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.WebPages.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Newtonsoft.Json.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Antlr3.Runtime.pdb
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.AI.Web.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\obj\Debug\SktProject.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\obj\Debug\SktProject.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\obj\Debug\SktProject.csproj.CopyComplete
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\obj\Debug\SktProject.dll
+C:\Users\Section1\Desktop\SKTProjectYeni-master\SktProject\obj\Debug\SktProject.pdb
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\ApplicationInsights.config
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\SktProject.dll.config
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\SktProject.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\SktProject.pdb
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\csc.exe
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\csc.exe.config
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\csc.rsp
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\csi.exe
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\csi.exe.config
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\csi.rsp
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Console.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\vbc.exe
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\vbc.exe.config
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\vbc.rsp
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Antlr3.Runtime.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\EntityFramework.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AI.Web.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Newtonsoft.Json.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Owin.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.Helpers.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.Mvc.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.Optimization.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.Razor.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.WebPages.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\WebGrease.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.Helpers.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.Mvc.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.Optimization.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.Razor.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.WebPages.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Newtonsoft.Json.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Antlr3.Runtime.pdb
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\EntityFramework.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.AI.Web.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\source\repos\Sktnew\SktProject\obj\Debug\SktProject.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\Sktnew\SktProject\obj\Debug\SktProject.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\Sktnew\SktProject\obj\Debug\SktProject.csproj.CopyComplete
+C:\Users\Section1\source\repos\Sktnew\SktProject\obj\Debug\SktProject.dll
+C:\Users\Section1\source\repos\Sktnew\SktProject\obj\Debug\SktProject.pdb

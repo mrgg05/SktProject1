@@ -1,0 +1,274 @@
+﻿@model SktProject.Models.ViewModel.CategoryProductViewModels
+@{
+    Layout = "~/Views/Shared/HomeLayout.cshtml";
+}
+
+
+<!-- header -->
+<!-- script-for sticky-nav -->
+<!-- //script-for sticky-nav -->
+<!-- //header -->
+<!-- products-breadcrumb -->
+<div class="products-breadcrumb">
+    <div class="container">
+        <ul>
+            <li><i class="fa fa-home" aria-hidden="true"></i><a href="index.html">Home</a><span>|</span></li>
+            <li>Sign In & Sign Up</li>
+        </ul>
+    </div>
+</div>
+<!-- //products-breadcrumb -->
+<!-- banner -->
+
+<div class="banner">
+    <div class="w3l_banner_nav_left">
+        <nav class="navbar nav_bottom">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header nav_2">
+                <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+
+                @*<ul class="nav navbar-nav nav_1">
+                        @foreach (var item in Model.Category)
+                        {
+                            <li>
+                                <a style="cursor:pointer" href="@Url.Action("IndexId","Home",new { id = item.CategoryId})">@Html.DisplayFor(modelItem => item.CategoryName)</a>
+                            </li>
+                        }
+
+                    </ul>*@
+
+
+
+
+
+
+                @*<ul class="nav navbar-nav nav_1">
+                        <li><a href="products.html">Branded Foods</a></li>
+                        <li><a href="household.html">Households</a></li>
+                        <li class="dropdown mega-dropdown active">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Veggies & Fruits<span class="caret"></span></a>
+                            <div class="dropdown-menu mega-dropdown-menu w3ls_vegetables_menu">
+                                <div class="w3ls_vegetables">
+                                    <ul>
+                                        <li><a href="vegetables.html">Vegetables</a></li>
+                                        <li><a href="vegetables.html">Fruits</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="kitchen.html">Kitchen</a></li>
+                        <li><a href="short-codes.html">Short Codes</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Beverages<span class="caret"></span></a>
+                            <div class="dropdown-menu mega-dropdown-menu w3ls_vegetables_menu">
+                                <div class="w3ls_vegetables">
+                                    <ul>
+                                        <li><a href="drinks.html">Soft Drinks</a></li>
+                                        <li><a href="drinks.html">Juices</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="pet.html">Pet Food</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Frozen Foods<span class="caret"></span></a>
+                            <div class="dropdown-menu mega-dropdown-menu w3ls_vegetables_menu">
+                                <div class="w3ls_vegetables">
+                                    <ul>
+                                        <li><a href="frozen.html">Frozen Snacks</a></li>
+                                        <li><a href="frozen.html">Frozen Nonveg</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="bread.html">Bread & Bakery</a></li>
+                    </ul>*@
+            </div><!-- /.navbar-collapse -->
+        </nav>
+    </div>
+    <div class="w3l_banner_nav_right">
+        <!-- login -->
+        <div class="w3_login">
+            <h3>Sign In & Sign Up</h3>
+            <div class="w3_login_module">
+                <div class="module form-module">
+                    <div class="toggle">
+                        <i class="fa fa-times fa-pencil"></i>
+                        <div class="tooltip">Click Me</div>
+                    </div>
+                    <div class="form">
+                        <h2>Login to your account</h2>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <section id="loginForm">
+                                    @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                                    {
+                                        @Html.AntiForgeryToken()
+
+
+                                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                        <div class="form-group">
+
+                                            @*@Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })*@
+                                            <div class="col-md-10">
+                                                @Html.TextBoxFor(m => m.LoginViewModel.Email, new { placeholder = Html.DisplayNameFor(n => n.LoginViewModel.Email) })
+                                                @*@Html.TextBoxFor(m => m.Email, new { @class = "form-control" })*@
+                                                @Html.ValidationMessageFor(m => m.LoginViewModel.Email, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            @*@Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })*@
+                                            <div class="col-md-10">
+                                                @Html.PasswordFor(m => m.LoginViewModel.Password, new { placeholder = Html.DisplayNameFor(n => n.LoginViewModel.Password) })
+                                                @*@Html.PasswordFor(m => m.Password, new { @class = "form-control" })*@
+                                                @Html.ValidationMessageFor(m => m.LoginViewModel.Password, "", new { @class = "text-danger" })
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <div class="col-md-offset-2 col-md-10">
+                                                <div class="checkbox">
+                                                    @Html.CheckBoxFor(m => m.LoginViewModel.RememberMe)
+                                                    @Html.LabelFor(m => m.LoginViewModel.RememberMe)
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <div class="col-md-offset-2 col-md-10">
+                                                <input type="submit" value="Log in" class="btn btn-default" />
+                                            </div>
+                                        </div>
+
+                                        @* Enable this once you have account confirmation enabled for password reset functionality
+                                            <p>
+                                                @Html.ActionLink("Forgot your password?", "ForgotPassword")
+                                            </p>*@
+                                    }
+                                </section>
+                            </div>
+                            <div class="col-md-4">
+                                @*<section id="socialLoginForm">
+                                        @Html.Partial("_ExternalLoginsListPartial", new ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
+                                    </section>*@
+                            </div>
+                        </div>
+                        @*<form action="/Account/Login" method="post">
+                              <input type="text" name="Username" placeholder="Username" required="">
+                              <input type="password" name="Password" placeholder="Password" required="">
+                              <input type="submit" value="Login">
+                            </form>*@
+                    </div>
+                    <div class="form">
+                        <h2>Create an account</h2>
+                        @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                        {
+                        @Html.AntiForgeryToken()
+                        <h4>Create a new account.</h4>
+                        <hr />
+                        @Html.ValidationSummary("", new { @class = "text-danger" })
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.RegisterViewModel.Email, new { @class = "col-md-2 control-label" })
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(m => m.RegisterViewModel.Email, new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.RegisterViewModel.Password, new { @class = "col-md-2 control-label" })
+                            <div class="col-md-10">
+                                @Html.PasswordFor(m => m.RegisterViewModel.Password, new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.RegisterViewModel.ConfirmPassword, new { @class = "col-md-2 control-label" })
+                            <div class="col-md-10">
+                                @Html.PasswordFor(m => m.RegisterViewModel.ConfirmPassword, new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" class="btn btn-default" value="Register" />
+                            </div>
+                        </div>
+                        }
+                        @*<form action="#" method="post">
+                                <input type="text" name="Username" placeholder="Username" required=" ">
+                                <input type="password" name="Password" placeholder="Password" required=" ">
+                                <input type="email" name="Email" placeholder="Email Address" required=" ">
+                                <input type="text" name="Phone" placeholder="Phone Number" required=" ">
+                                <input type="submit" value="Register">
+                            </form>*@
+                    </div>
+                    <div class="cta"><a href="#">Forgot your password?</a></div>
+                </div>
+            </div>
+            <script>
+                $('.toggle').click(function () {
+                    // Switches the Icon
+                    $(this).children('i').toggleClass('fa-pencil');
+                    // Switches the forms
+                    $('.form').animate({
+                        height: "toggle",
+                        'padding-top': 'toggle',
+                        'padding-bottom': 'toggle',
+                        opacity: "toggle"
+                    }, "slow");
+                });
+            </script>
+        </div>
+        <!-- //login -->
+    </div>
+    <div class="clearfix"></div>
+</div>
+
+<!-- //banner -->
+<!-- newsletter-top-serv-btm -->
+<div class="newsletter-top-serv-btm">
+    <div class="container">
+        <div class="col-md-4 wthree_news_top_serv_btm_grid">
+            <div class="wthree_news_top_serv_btm_grid_icon">
+                <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+            </div>
+            <h3>Nam libero tempore</h3>
+            <p>
+                Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus
+                saepe eveniet ut et voluptates repudiandae sint et.
+            </p>
+        </div>
+        <div class="col-md-4 wthree_news_top_serv_btm_grid">
+            <div class="wthree_news_top_serv_btm_grid_icon">
+                <i class="fa fa-bar-chart" aria-hidden="true"></i>
+            </div>
+            <h3>officiis debitis aut rerum</h3>
+            <p>
+                Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus
+                saepe eveniet ut et voluptates repudiandae sint et.
+            </p>
+        </div>
+        <div class="col-md-4 wthree_news_top_serv_btm_grid">
+            <div class="wthree_news_top_serv_btm_grid_icon">
+                <i class="fa fa-truck" aria-hidden="true"></i>
+            </div>
+            <h3>eveniet ut et voluptates</h3>
+            <p>
+                Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus
+                saepe eveniet ut et voluptates repudiandae sint et.
+            </p>
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+</div>
+
+
+<!-- //newsletter-top-serv-btm -->
+<!-- newsletter -->
+<!-- //footer -->
+<!-- Bootstrap Core JavaScript -->
+<!-- here stars scrolling icon -->
+<!-- //here ends scrolling icon -->
