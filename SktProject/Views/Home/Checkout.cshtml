@@ -8,7 +8,7 @@
      $(function () {
             $(".close1").click(function () {
                 var dataId = $(this).attr("data-id1");
-                alert("The data-id of clicked item is: " + dataId);
+                //alert("The data-id of clicked item is: " + dataId);
 
 
                 console.log(dataId);
@@ -40,7 +40,7 @@
     <div class="products-breadcrumb">
         <div class="container">
             <ul>
-                <li><i class="fa fa-home" aria-hidden="true"></i><a href="index.html">Home</a><span>|</span></li>
+                <li><i class="fa fa-home" aria-hidden="true"></i><a href="/Home/Index">Home</a><span>|</span></li>
                 <li>Checkout</li>
             </ul>
         </div>
@@ -234,7 +234,7 @@
                                             </div>
 
                                         </div>
-                                        <input type="submit" class="submit check_out" value="Delivery to this Address"/>
+                                        <button class="submit check_out">Delivery to this Address</button>
                                     </div>
                                 </section>
                             </form>

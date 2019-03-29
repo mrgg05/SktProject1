@@ -9,6 +9,23 @@
 
 
 <body>
+    <script type="text/javascript">
+        $(function () {
+            $("#fototik").click(function () {
+                var eklenecekid = $(this).attr("data-id2");
+
+                if (eklenecekid != '') {
+                    $.post("/Home/single", { "id": eklenecekid }, function (data) {
+
+                    })
+                }
+
+            })
+
+        })
+    </script>
+
+   
     <!-- header -->
     <div class="banner">
         <div class="w3l_banner_nav_left">
@@ -24,7 +41,6 @@
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
-
                     <ul class="nav navbar-nav nav_1">
                         @foreach (var item in Model.Category)
                         {
@@ -32,14 +48,11 @@
                                 <a style="cursor:pointer" href="@Url.Action("IndexId","Home",new { id = item.CategoryId})">@Html.DisplayFor(modelItem => item.CategoryName)</a>
                             </li>
                         }
-
                     </ul>
-
 
                 </div>
             </nav>
         </div>
-
         <div class="w3l_banner_nav_right">
             <section class="slider">
                 <div class="flexslider">
@@ -87,58 +100,27 @@
         </div>
         <div class="clearfix"></div>
     </div>
-
-    <div class="banner_bottom">
-        <div class="wthree_banner_bottom_left_grid_sub">
-        </div>
-        <div class="wthree_banner_bottom_left_grid_sub1">
-            <div class="col-md-4 wthree_banner_bottom_left">
-                <div class="wthree_banner_bottom_left_grid">
-                    <img src="/images/4.jpg" alt=" " class="img-responsive" />
-                    <div class="wthree_banner_bottom_left_grid_pos">
-                        <h4>Discount Offer <span>25%</span></h4>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 wthree_banner_bottom_left">
-                <div class="wthree_banner_bottom_left_grid">
-                    <img src="/images/5.jpg" alt=" " class="img-responsive" />
-                    <div class="wthree_banner_btm_pos">
-                        <h3>introducing <span>best store</span> for <i>groceries</i></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 wthree_banner_bottom_left">
-                <div class="wthree_banner_bottom_left_grid">
-                    <img src="/images/6.jpg" alt=" " class="img-responsive" />
-                    <div class="wthree_banner_btm_pos1">
-                        <h3>Save <span>Upto</span> $10</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="clearfix"> </div>
-        </div>
-        <div class="clearfix"> </div>
-    </div>
+  
     <div class="top-brands">
         <div class="container">
+            
             <h3>Hot Offers</h3>
             <div class="agile_top_brands_grids">
                 @foreach (var item in Model.Product)
                 {
 
 
-                    <div class="col-md-3 top_brand_left">
+                    <div class="target col-md-3 top_brand_left">
                         <div class="hover14 column">
                             <div class="agile_top_brand_left_grid">
                                 <div class="tag"><img src="/images/tag.png" alt=" " class="img-responsive" /></div>
                                 <div class="agile_top_brand_left_grid1">
-                                    <figure>
+                                    <figure class="target">
                                         <div class="snipcart-item block">
-                                            <div class="snipcart-thumb">
-                                                <a href="single.html"><img title=" " alt=" " width="140" height="140" src="@(item.ProductUrl)" /></a>
-                                                <p> @Html.DisplayFor(modelItem => item.Title)</p>
-                                                <h4> @Html.DisplayFor(modelItem => item.Price) TL<span>$10.00</span></h4>
+                                            <div class="snipcart-thumb ">
+                                                <a class=""   href="@Url.Action("single","Home",new {id=item.ProductId })"><img  data-id2="@item.ProductId" title=" " alt=" " width="140" height="140" src="@(item.ProductUrl)" /></a>
+                                                <p class=""> @item.Title</p>
+                                                <h4 > @item.Price TL<span>$10.00</span></h4>
                                             </div>
                                             <div class="snipcart-details top_brand_home_details">
                                                 <form action="@Url.Action("AddToCart","ShoppingCart", new  { id = item.ProductId})" method="post">
@@ -146,18 +128,15 @@
                                                         <input type="hidden" name="cmd" value="_cart" />
                                                         <input type="hidden" name="add" value="1" />
                                                         <input type="hidden" name="business" value=" " />
-                                                        <input type="hidden" name="item_name" value="@Html.DisplayFor(modelItem => item.Title)" />
+                                                        <input type="hidden" name="item_name" id="inputValue" value="@Html.DisplayFor(modelItem => item.Title)" />
                                                         <input type="hidden" name="amount" value="@Html.DisplayFor(modelItem => item.Price)" />
-                                                        <input type="hidden" name="discount_amount" value="@(item.Price * 20 / 100)" />
+                                                        <input type="hidden" name="discount_amount1" value="@(item.Price * 20 / 100)" />
                                                         <input type="hidden" name="currency_code" value="USD" />
                                                         <input type="hidden" name="return" value=" " />
                                                         <input type="hidden" name="cancel_return" value=" " />
-                                                        <input type="submit" name="submit" data-id="@item.ProductId" value="Add to cart" class="AddItem button" />
+                                                        <input type="button" name="" data-id="@item.ProductId" value="Add to cart" class="AddItem button" />
                                                     </fieldset>
-
                                                 </form>
-
-
 
                                             </div>
                                         </div>

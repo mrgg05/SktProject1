@@ -2234,6 +2234,8 @@
     <Content Include="Views\Home\Checkout.cshtml" />
     <Content Include="Views\Home\Complete.cshtml" />
     <Content Include="Views\Home\Partiala.cshtml" />
+    <Content Include="Views\Home\CartSummary.cshtml" />
+    <Content Include="Views\Home\single.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

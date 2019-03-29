@@ -1234,7 +1234,7 @@ button.submit.check_out{
 	padding-top: 7em;
 }
 .w3l_banner_nav_right_banner3{
-	background:url(../images/12.jpg) no-repeat 0px 0px;
+	background:url(/images/12.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -1242,7 +1242,7 @@ button.submit.check_out{
 	-ms-background-size:cover;
 }
 .w3l_banner_nav_right_banner4{
-	background:url(../images/16.jpg) no-repeat 0px 0px;
+	background:url(/images/16.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -1250,7 +1250,7 @@ button.submit.check_out{
 	-ms-background-size:cover;
 }
 .w3l_banner_nav_right_banner5{
-	background:url(../images/17.jpg) no-repeat 0px 0px;
+	background:url(/images/17.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -1258,7 +1258,7 @@ button.submit.check_out{
 	-ms-background-size:cover;
 }
 .w3l_banner_nav_right_banner6{
-	background:url(../images/21.jpg) no-repeat 0px 0px;
+	background:url(/images/21.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -2378,7 +2378,7 @@ ul.wmuSliderPagination {
 
 .starRating:not(old) > label {
     float: right;
-    background: url(../images/star.png);
+    background: url(/images/star.png);
     background-size: contain;
     margin-right: 2px;
 }
@@ -2388,7 +2388,7 @@ ul.wmuSliderPagination {
   display         : block;
   width           : 16px;
   height          : 16px;
-  background      : url(../images/star1.png);
+  background      : url(/images/star1.png);
   background-size : contain;
   opacity         : 0;
   transition      : opacity 0.2s linear;

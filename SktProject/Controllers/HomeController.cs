@@ -14,6 +14,31 @@ namespace SktProject.Controllers
     {
         ApplicationDbContext db = new ApplicationDbContext();
 
+        [HttpGet]
+        public ActionResult single(int id)
+        {
+            //int id = Convert.ToInt32(product.Product.FirstOrDefault().ProductId);
+            //var cart = ShoppingCart.GetCart(this.HttpContext);
+
+            Product pro = db.Products.Find(id);
+
+
+
+         var son = new CategoryProductViewModels
+            {
+               
+                Products = pro,
+                Category = db.Categories.ToList()
+
+            };
+
+           
+
+            return View(son);
+
+         
+        }
+
         public ActionResult Login()
         {
             //return RedirectToAction("Index1", "Categories");
@@ -253,9 +278,15 @@ namespace SktProject.Controllers
         }
 
 
+        public ActionResult CartSummary()
+        {
+            var cart = ShoppingCart.GetCart(this.HttpContext);
+            ViewData["CartCount"] = cart.GetCount();
+
+            return PartialView("CartSummary");
+        }
 
 
 
-      
     }
 }
