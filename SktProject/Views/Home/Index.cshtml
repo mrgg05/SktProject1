@@ -118,7 +118,7 @@
                                     <figure class="target">
                                         <div class="snipcart-item block">
                                             <div class="snipcart-thumb ">
-                                                <a class=""   href="@Url.Action("single","Home",new {id=item.ProductId })"><img  data-id2="@item.ProductId" title=" " alt=" " width="140" height="140" src="@(item.ProductUrl)" /></a>
+                                                <a class=""   href="@Url.Action("single","Home",new {id=item.ProductId })"><img title=" " alt=" " width="140" height="140" src="/@(item.ProductUrl)" /></a>
                                                 <p class=""> @item.Title</p>
                                                 <h4 > @item.Price TL<span>$10.00</span></h4>
                                             </div>
@@ -257,7 +257,7 @@
     </div>
     <!-- //top-brands -->
     <!-- fresh-vegetables -->
-    <div class="fresh-vegetables">
+    @*<div class="fresh-vegetables">
         <div class="container">
             <h3>Top Products</h3>
             <div class="w3l_fresh_vegetables_grids">
@@ -323,7 +323,7 @@
                 <div class="clearfix"> </div>
             </div>
         </div>
-    </div>
+    </div>*@
     <!-- //fresh-vegetables -->
     <!-- newsletter -->
     <!-- //footer -->

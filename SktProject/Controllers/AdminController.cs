@@ -1,4 +1,5 @@
-﻿using SktProject.Models;
+﻿using Microsoft.AspNet.Identity;
+using SktProject.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -13,18 +14,21 @@ namespace SktProject.Controllers
     {
         ApplicationDbContext db = new ApplicationDbContext();
         // GET: Admin
+        [Authorize(Roles = "Admin")]
         public ActionResult Index()
         {
             return View();
         }
 
-
+        [Authorize(Roles = "Admin")]
         public ActionResult Products()
         {
-            return View(db.Products.ToList());
+            var userID = User.Identity.GetUserId();
+            return View(db.Products.Where(x=>x.User.Id==userID).ToList());
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         // GET: Products/Delete/5
         public JsonResult Delete(string  id)
         {
@@ -39,13 +43,15 @@ namespace SktProject.Controllers
         }
 
 
-
+        [Authorize(Roles = "Admin")]
         public ActionResult ProductAdd()
         {
             ViewBag.CategoryId = new SelectList(db.Categories, "CategoryId", "CategoryName");
             return View();
         }
 
+
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult ProductAdd(Product product, HttpPostedFileBase image)
@@ -58,7 +64,12 @@ namespace SktProject.Controllers
                 img.Resize(500, 775);
                 img.Save("../Uploads/Photo/" + newfoto);
                 product.ProductUrl = "../Uploads/Photo/" + newfoto;
+                
+                string id = User.Identity.GetUserId();
 
+                var userid = db.Users.Where(x => x.Id == id).FirstOrDefault();
+                product.User = userid;
+                
                 db.Products.Add(product);
                 db.SaveChanges();
                 return RedirectToAction("Products", "Admin");
