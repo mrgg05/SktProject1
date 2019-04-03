@@ -175,13 +175,15 @@
                         @foreach (var item in Model.Cart)
                         {
                             <ul>
-                                <li>@Html.DisplayFor(modelItem => item.Product.Title) <i>-</i> <span>@(item.Count*item.Product.Price)  </span></li>
+                                <li>@Html.DisplayFor(modelItem => item.Product.Title) <i>-</i> <span>@(item.Count * item.Product.Price)  </span></li>
                                 @*<li>Product2 <i>-</i> <span>$25.00 </span></li>
-                                <li>Product3 <i>-</i> <span>$29.00 </span></li>*@
+                <li>Product3 <i>-</i> <span>$29.00 </span></li>*@
                                 @*<li>Total Service Charges <i>-</i> <span>$15.00</span></li>*@
                                 @*<li>Total <i>-</i> <span>$84.00</span></li>*@
                             </ul>
+                            
                         }
+                        <h5>Total :@Html.DisplayFor(m => m.Total) </h5>
                     </div>
                         <div class="col-md-8 address_form_agile">
                             <h4>Add a new Details</h4>
@@ -189,7 +191,7 @@
                                 <section class="creditly-wrapper wthree, w3_agileits_wrapper">
                                     <div class="information-wrapper">
                                         <div class="first-row form-group">
-                                           
+
                                             <div class="controls">
                                                 @Html.LabelFor(m => m.Order.FirstName, new { @class = "control-label" })
                                                 @Html.TextBoxFor(m => m.Order.FirstName, new { @class = "billing-address-name form-control" })
@@ -202,7 +204,7 @@
                                                         @Html.LabelFor(m => m.Order.LastName, new { @class = "control-label" })
                                                         @Html.TextBoxFor(m => m.Order.LastName, new { @class = "form-control" })
                                                         @*<label class="control-label">Mobile number:</label>
-                    <input class="form-control" type="text" placeholder="Mobile number">*@
+                        <input class="form-control" type="text" placeholder="Mobile number">*@
                                                     </div>
                                                 </div>
                                                 <div class="w3_agileits_card_number_grid_right">
@@ -210,7 +212,7 @@
                                                         @Html.LabelFor(m => m.Order.Email, new { @class = "control-label" })
                                                         @Html.TextBoxFor(m => m.Order.Email, new { @class = "form-control" })
                                                         @*<label class="control-label">Landmark: </label>
-                    <input class="form-control" type="text" placeholder="Landmark">*@
+                        <input class="form-control" type="text" placeholder="Landmark">*@
                                                     </div>
                                                 </div>
                                                 <div class="clear"> </div>
@@ -219,28 +221,44 @@
                                                 @Html.LabelFor(m => m.Order.Phone, new { @class = "control-label" })
                                                 @Html.TextBoxFor(m => m.Order.Phone, new { @class = "form-control" })
                                                 @*<label class="control-label">Town/City: </label>
-            <input class="form-control" type="text" placeholder="Town/City">*@
+                <input class="form-control" type="text" placeholder="Town/City">*@
                                             </div>
                                             <div class="controls">
                                                 @Html.LabelFor(m => m.Order.Adres, new { @class = "control-label" })
                                                 @Html.TextBoxFor(m => m.Order.Adres, new { @class = "form-control" })
                                                 @*<label class="control-label">Address type: </label>
-            <select class="form-control option-w3ls">
-                <option>Office</option>
-                <option>Home</option>
-                <option>Commercial</option>
+                <select class="form-control option-w3ls">
+                    <option>Office</option>
+                    <option>Home</option>
+                    <option>Commercial</option>
 
-            </select>*@
+                </select>*@
                                             </div>
 
                                         </div>
-                                        <button class="submit check_out">Delivery to this Address</button>
+                                        @if (User.Identity.IsAuthenticated)
+                                        {
+                                            <button class="submit check_out">Delivery to this Address</button>
+                                        }
+                                        else
+                                        {
+                                            <a href="/Home/Login" class="btn btn-success">Delivery to this Address</a>
+                                        }
+
+
                                     </div>
                                 </section>
                             </form>
-                            <div class="checkout-right-basket">
-                                <a href="checkout">Make a Payment <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>
-                            </div>
+                            @*<div class="checkout-right-basket">
+                                @if (User.Identity.IsAuthenticated)
+                                {
+                                    <a href="checkout">Make a Payment <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>
+                                }
+                                else
+                                {
+                                    <a href="/Home/Login" class="btn btn-success">Make a Payment</a>
+                                }
+                            </div>*@
                         </div>
 
                         <div class="clearfix"> </div>

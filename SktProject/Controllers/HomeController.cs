@@ -59,7 +59,9 @@ namespace SktProject.Controllers
             {
                 Cart = cart.GetCartItems(),
                 Product = db.Products.ToList(),
-                Category = db.Categories.ToList()
+                Category = db.Categories.ToList(),
+                Total=cart.GetTotal()
+                
 
             };
 

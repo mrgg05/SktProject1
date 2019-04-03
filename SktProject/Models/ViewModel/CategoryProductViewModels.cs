@@ -15,6 +15,8 @@ namespace SktProject.Models.ViewModel
         public Order Order { get; set; }
         public Product Products { get; set; }
 
+        public decimal Total { get; set; }
+
         public OrderDetails OrderDetail { get; set; }
 
 
